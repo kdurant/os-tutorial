@@ -60,3 +60,5 @@ I know you're anxious to try it out (I am!), so let's do it:
 You will see a window open which says "Booting from Hard Disk..." and
 nothing else. When was the last time you were so excited to see an infinite
 loop? ;-)
+
+![](boot_sect_simple.png)
