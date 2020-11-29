@@ -51,3 +51,4 @@ Anyway, you know the drill:
 `qemu boot_sect_hello.bin`
 
 Your boot sector will say 'Hello' and hang on an infinite loop
+![](boot_sect_hello.png)
